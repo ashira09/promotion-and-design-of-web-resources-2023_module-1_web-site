@@ -16,7 +16,7 @@ h1{
   font-size: 4ch;
 }
 h2{
-  font-size: 3ch;
+  font-size: 3.5ch;
 }
 .section_1_elements{
   display: flex;
@@ -166,7 +166,7 @@ iframe{
     font-size: 3ch;
   }
   h2{
-    font-size: 2ch;
+    font-size: 2.5ch;
   }
   .paragraph_history_section{
     font-size: small;
