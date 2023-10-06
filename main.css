@@ -44,18 +44,21 @@ h2{
   height: 261px;
   border: solid white;
   box-shadow: 0 0 15px white;
+  border-radius: 10%;
 }
 .img_section_2_element{
   width: 243px;
   height: 261px;
   border: solid white;
   box-shadow: 0 0 15px white;
+  border-radius: 10%;
 }
 iframe{
   width: 243px;
   height: 200px;
   border: solid white;
   box-shadow: 0 0 15px white;
+  border-radius: 10%;
 }
 .figcaption_section_1_element{
   width: 243px;
