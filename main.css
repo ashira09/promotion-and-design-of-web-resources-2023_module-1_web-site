@@ -12,6 +12,12 @@ section{
 header{
   text-align: center;
 }
+h1{
+  font-size: 4ch;
+}
+h2{
+  font-size: 3ch;
+}
 .section_1_elements{
   display: flex;
   flex-direction: row;
@@ -156,8 +162,11 @@ iframe{
   }
 }
 @media (max-width:859px){
+  h1{
+    font-size: 3ch;
+  }
   h2{
-    font-size: large;
+    font-size: 2ch;
   }
   .paragraph_history_section{
     font-size: small;
@@ -289,10 +298,10 @@ iframe{
 }
 @media (max-width: 275px){
   h1{
-    font-size: medium;
+    font-size: 2ch;
   }
   h2{
-    font-size: small;
+    font-size: 1.5ch;
   }
   .figcaption_section_1_element{
     font-size: x-small;
